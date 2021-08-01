@@ -8,6 +8,7 @@ namespace Helloworld
         {
             Console.WriteLine("Hello sandeep!");
             Console.WriteLine("Welcome to BridgeLabz");
+            Console.WriteLine("Happy Journey ahead");
         }
     }
 }
