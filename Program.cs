@@ -6,7 +6,8 @@ namespace Helloworld
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Sandeep!");
+            Console.WriteLine("Hello sandeep!");
+            Console.WriteLine("Welcome to BridgeLabz");
         }
     }
 }
